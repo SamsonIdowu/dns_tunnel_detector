@@ -58,6 +58,7 @@ The detector works in two modes:
 ```
 sudo apt update
 sudo apt install -y python3-pip tcpdump
+sudo python3 -m pip install dnspython
 pip3 install scapy psutil
 ```
 
